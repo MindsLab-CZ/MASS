@@ -1,3 +1,16 @@
+<!-- MINDSLAB-PAPER-METADATA:START -->
+# MASS
+
+**Paper:** MASS: Mathematical Data Selection via Skill Graphs for Pretraining Large Language Models
+
+**Authors:** Jiazheng Li, Lu Yu, Qing Cui, Zhiqiang Zhang, Jun Zhou, Yanfang Ye, Chuxu Zhang
+
+**Paper link:** [2503.14917](https://arxiv.org/abs/2503.14917)
+
+<!-- MINDSLAB-PAPER-METADATA:END -->
+
+---
+
 # [ICML 2025] MASS: Mathematical Data Selection via Skill Graphs for Pretraining Large Language Models
 
 
